@@ -1,7 +1,7 @@
 # E-commerce AI Agent 🛒
 # Author: ABHISHEK SINGH {21MIS1096}
 ## VELLORE INSTITUTE OF TECHNOLOGY , CHENNAI
-#ASSIGNMENT FOR ANARIX AI
+# ASSIGNMENT FOR ANARIX AI
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![React](https://img.shields.io/badge/React-18.0+-61DAFB.svg)](https://reactjs.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-009688.svg)](https://fastapi.tiangolo.com/)
