@@ -1,0 +1,7 @@
+{
+  "model_key": "mistral-7b-instruct",
+  "model_name": "mistral:7b-instruct",
+  "downloaded_at": "2025-07-22T20:55:51.249947",
+  "size": "4.1GB",
+  "description": "Mistral 7B Instruct model optimized for instruction following"
+}
